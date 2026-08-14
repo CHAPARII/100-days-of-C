@@ -1,8 +1,8 @@
-# 100 Days of Code
+# 100 Days of Code (C language)
 
 A simple challenge to code every day for 100 days.
 
-This repository contains my daily progress, projects, experiments, and things I learn along the way in my jurney of 1st year in UPES collage.
+`This is a part of my collage assignment`, were I'll get to solve 2 programming questions in "C" language. This repository contains my daily progress, projects, experiments, and things I learn along the way in my jurney of 1st year in UPES collage.
 
 ## Progress
 
