@@ -6,7 +6,7 @@ A simple challenge to code every day for 100 days.
 
 ## Progress
 
-`Day 05 / 100`
+`Day 23 / 100`
 
 ## Goal
 
